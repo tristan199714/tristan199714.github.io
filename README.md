@@ -1,8 +1,8 @@
 # HomePage
-Siyuan Chen's HomePage
+Xiaodong Wu's HomePage
 
-- 👋 Hi, I’m Siyuan Chen
-- 👀 I’m interested in Computational Biology and Machine Learning.
+- 👋 Hi, I’m Xiaodong Wu
+- 👀 I’m interested in trustworthy AI.
 
-- 📫 How to reach me : siyuan.chen@kaust.edu.sa
+- 📫 How to reach me : xiaodong.wu@queensu.ca
 
